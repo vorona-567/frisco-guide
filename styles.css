@@ -1,0 +1,93 @@
+* {
+    font-family: 'Source Sans 4', Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #f2f0db;
+}
+
+header {
+    background-color: #8C1515 ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding: 20px 30px;
+    margin: 10px;
+    color: antiquewhite;
+}
+
+.header {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.logoUni {
+    width: 6%;
+    height: 6%;
+}
+
+.header .links{
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.header .links a {
+    color: antiquewhite;
+    text-decoration: antiquewhite line;
+}
+
+.header .nameUni {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.infoMain {
+    display: flex;
+    justify-content: flex-start;
+    gap: 8px;
+    flex-direction: column;
+    text-align: left;
+    padding: 30px;
+}
+
+.infoMain h1 {
+    text-align: center;
+}
+
+.infoMain {
+    font-size: 140%;
+}
+
+.imageMain {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+footer {
+    background-color: #8C1515 ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px 30px;
+    margin: 10px;
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+.siteAdapter {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.siteAdapter a {
+    text-decoration: antiquewhite line;
+    color: antiquewhite;
+}
+
