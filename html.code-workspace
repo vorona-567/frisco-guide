@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../html"
+		},
+		{
+			"path": "../Desktop/нововсти 46"
+		},
+		{
+			"path": "../Pictures/новости"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
